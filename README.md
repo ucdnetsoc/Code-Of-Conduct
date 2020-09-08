@@ -22,7 +22,7 @@ The purpose of the Code of Conduct is not to burden the community with a bunch o
 This Code of Conduct is designed to help all of us build a positive community experience for everyone, regardless of age, gender identity and expression, sexual orientation, disability, physical appearance, body size, ethnicity, nationality, race, or religion (or lack thereof), education, or socio-economic status.
 
 ## The Code of Conduct
-These rules are in place so that everyone can feel comfortable participating in UCD Netsoc. If you think they need editing or don't cover something important, please send a pull request to start the discussion.
+These rules are in place so that everyone can feel comfortable participating in UCD Netsoc. If you think they need editing or don't cover something important, please send a [pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) to start the discussion.
 
 * Harassment in any form will not be tolerated. Harassment includes but is not limited to:
   Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body ionsize, race, age, regional discrimination, political or religious affiliation
