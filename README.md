@@ -25,7 +25,7 @@ This Code of Conduct is designed to help all of us build a positive community ex
 ## The Code of Conduct
 These rules are in place so that everyone can feel comfortable participating in UCD Netsoc. If you think they need editing or don't cover something important, please send a [pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) to start the discussion.
 
-1. Harassment in any form will not be tolerated. Harassment includes but is not limited to:
+Harassment in any form will not be tolerated. Harassment includes but is not limited to:
 
 * Offensive and discriminatory comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, race, age, regional discrimination, political or religious affiliation - this includes (but is not limited to) various slurs
 * Offensive comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment
@@ -47,18 +47,19 @@ These rules are in place so that everyone can feel comfortable participating in 
 ## Our Standards (Example Guidelines)
 #### Examples of behavior that contributes to creating a positive environment include:
 * Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Constructive criticism and disagreements are welcome, but all discussions here should be civil, kind, and thoughtful.
+* Being respectful of differing viewpoints and experiences.Constructive criticism and disagreements are welcome, but all discussions here should be civil, kind, and thoughtful.
 * Gracefully accepting constructive criticism
 * Focusing on what is best for the community
 * Showing empathy towards other community members
   
 #### Examples of unacceptable behavior by participants include:
-* The use of sexualized language or imagery and unwelcome sexual attention or advances
+* The use of sexualized language or imagery and unwelcome sexual attention or advances, including when simulated online. The only exception to sexual topics is channels/spaces specifically for topics of sexual identity.
 * Trolling, insulting/derogatory comments, on any person/group
 * Public or private harassment
-* Publishing others’ private information, such as a physical or electronic address, without explicit permission
+* Publishing others’ private information, such as a physical or electronic address, without explicit permission. his includes any sort of "outing" of any aspect of someone's identity without their consent.
+* Unsolicited explanations under the assumption that someone doesn't already know it. Ask before you teach! Don't assume what people's knowledge gaps are.
 * Other conduct which could reasonably be considered inappropriate in a professional setting
+* Any of the above even when presented as ["ironic" or "joking".](https://en.wikipedia.org/wiki/Hipster_racism)
 
 #### If you say something that is found offensive, and you are called out on it, let’s:
 * Listen without interruption.
