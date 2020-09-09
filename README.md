@@ -1,4 +1,4 @@
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
+
 # Code-Of-Conduct
 To make clear what is expected, all members, committee, and speakers at any Netsoc event are required to conform to the following Code of Conduct which also applies to all interactions on social media, Discord, YouTube and Twitch comments.
  
