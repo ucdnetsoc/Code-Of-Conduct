@@ -52,11 +52,11 @@ Harassment in any form will not be tolerated. Harassment includes but is not lim
 * Focusing on what is best for the community
 * Showing empathy towards other community members
   
-#### Examples of unacceptable behavior by participants include:
+#### Examples of unacceptable behavior include:
 * The use of sexualized language or imagery and unwelcome sexual attention or advances, including when simulated online. The only exception to sexual topics is channels/spaces specifically for topics of sexual identity.
 * Trolling, insulting/derogatory comments, on any person/group
 * Public or private harassment
-* Publishing others’ private information, such as a physical or electronic address, without explicit permission. his includes any sort of "outing" of any aspect of someone's identity without their consent.
+* Publishing others’ private information, such as a physical or electronic address, without explicit permission. This includes any sort of "outing" of any aspect of someone's identity without their consent.
 * Unsolicited explanations under the assumption that someone doesn't already know it. Ask before you teach! Don't assume what people's knowledge gaps are.
 * Other conduct which could reasonably be considered inappropriate in a professional setting
 * Any of the above even when presented as ["ironic" or "joking".](https://en.wikipedia.org/wiki/Hipster_racism)
