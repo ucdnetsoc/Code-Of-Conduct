@@ -1,3 +1,4 @@
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
 # Code-Of-Conduct
 To make clear what is expected, all members, committee, and speakers at any Netsoc event are required to conform to the following Code of Conduct which also applies to all interactions on social media, Discord, YouTube and Twitch comments.
  
@@ -24,13 +25,13 @@ This Code of Conduct is designed to help all of us build a positive community ex
 ## The Code of Conduct
 These rules are in place so that everyone can feel comfortable participating in UCD Netsoc. If you think they need editing or don't cover something important, please send a [pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) to start the discussion.
 
-Harassment in any form will not be tolerated. Harassment includes but is not limited to:
+1. Harassment in any form will not be tolerated. Harassment includes but is not limited to:
 
-* Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body ionsize, race, age, regional discrimination, political or religious affiliation
+* Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, race, age, regional discrimination, political or religious affiliation
 * Offensive comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment
 * Deliberate misgendering. This includes deadnaming (this includes the intentional use of using the incorrect name) or persistently using a pronoun that does not correctly reflect a person's gender identity. You must address people by the name they give you when not addressing them by their username
 * Physical contact and simulated physical contact (eg, textual descriptions like “hug” or “backrub”) without consent or after a request to stop
-  Threats of violence, both physical and psychological
+* Threats of violence, both physical and psychological
 * Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm
 * Deliberate intimidation by actions
 * Stalking (unwanted or repeated surveillance by an individual or group toward another person) 
@@ -58,6 +59,12 @@ Harassment in any form will not be tolerated. Harassment includes but is not lim
 * Public or private harassment
 * Publishing others’ private information, such as a physical or electronic address, without explicit permission
 * Other conduct which could reasonably be considered inappropriate in a professional setting
+
+#### If you say something that is found offensive, and you are called out on it, let’s:
+* Listen without interruption.
+* Believe what the person is saying & do not attempt to disqualify what they have to say.
+* Ask for tips / help with avoiding making the offense in the future.
+* Apologize and ask forgiveness.
 
 ## Scope
 This Code of Conduct applies within all UCD Netsoc spaces, and also applies when
