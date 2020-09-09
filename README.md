@@ -47,7 +47,7 @@ Harassment in any form will not be tolerated. Harassment includes but is not lim
 ## Our Standards (Example Guidelines)
 #### Examples of behavior that contributes to creating a positive environment include:
 * Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences.Constructive criticism and disagreements are welcome, but all discussions here should be civil, kind, and thoughtful.
+* Being respectful of differing viewpoints and experiences. Constructive criticism and disagreements are welcome, but all discussions here should be civil, kind, and thoughtful.
 * Gracefully accepting constructive criticism
 * Focusing on what is best for the community
 * Showing empathy towards other community members
